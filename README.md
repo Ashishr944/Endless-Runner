@@ -110,7 +110,7 @@ This project is configured for deployment to Vercel.
 
 #### Option A: Vercel Dashboard (Recommended)
 1. Push your repository to GitHub, GitLab, or Bitbucket.
-2. Visit the [Vercel Dashboard](https://vercel.com/new) and import your repository.
+2. Visit the [Vercel Dashboard]([https://vercel.com/new](https://myendless-runner.vercel.app)) and import your repository.
 3. Vercel automatically imports configuration presets from the project's root `vercel.json`.
 4. Click **Deploy**.
 
